@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2011/09/16 20:30:50.551.pas,C:\Users\Administrator\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\Administrator\Documents\RAD Studio\Projects\xmlSigRun.pas</Transaction>
+    <Transaction>2011/09/16 20:30:50.551.dfm,C:\Users\Administrator\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\Administrator\Documents\RAD Studio\Projects\xmlSigRun.dfm</Transaction>
+    <Transaction>2011/09/16 20:31:04.147.dproj,C:\Users\Administrator\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\Administrator\Documents\RAD Studio\Projects\XMLSigRunNew.dproj</Transaction>
+    <Transaction>2011/09/16 20:43:50.609.pas,C:\Users\Administrator\Documents\RAD Studio\Projects\Unit1.pas=D:\XML工程\XML\newSigRun\dataModlue.pas</Transaction>
+    <Transaction>2011/09/16 20:43:50.609.dfm,C:\Users\Administrator\Documents\RAD Studio\Projects\Unit1.dfm=D:\XML工程\XML\newSigRun\dataModlue.dfm</Transaction>
+    <Transaction>2011/09/16 20:45:28.360.pas,D:\XML工程\XML\newSigRun\dataModlue.pas=</Transaction>
+    <Transaction>2011/09/16 20:45:28.360.dfm,D:\XML工程\XML\newSigRun\dataModlue.dfm=</Transaction>
+    <Transaction>2011/09/16 20:45:58.436.pas,C:\Users\Administrator\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\Administrator\Documents\RAD Studio\Projects\dataModule.pas</Transaction>
+    <Transaction>2011/09/16 20:45:58.436.dfm,C:\Users\Administrator\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\Administrator\Documents\RAD Studio\Projects\dataModule.dfm</Transaction>
+    <Transaction>2011/09/17 12:28:10.282.pas,C:\Users\Administrator\Documents\RAD Studio\Projects\dataModule.pas=</Transaction>
+    <Transaction>2011/09/17 12:28:10.282.dfm,C:\Users\Administrator\Documents\RAD Studio\Projects\dataModule.dfm=</Transaction>
+    <Transaction>2011/09/17 12:29:37.675.pas,C:\Users\Administrator\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\Administrator\Documents\RAD Studio\Projects\dataModuleSig.pas</Transaction>
+    <Transaction>2011/09/17 12:29:37.675.dfm,C:\Users\Administrator\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\Administrator\Documents\RAD Studio\Projects\dataModuleSig.dfm</Transaction>
+    <Transaction>2011/09/17 18:44:09.088.pas,C:\Users\Administrator\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\Administrator\Documents\RAD Studio\Projects\xmlSigThread.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="xmlSigRun.pas"/>
+    <File Path="xmlSigRun.dfm"/>
+    <File Path="DBOperator.pas"/>
+    <File Path="xmlRecord.pas"/>
+    <File Path="dataModuleSig.pas"/>
+    <File Path="dataModuleSig.dfm"/>
+    <File Path="xmlSigThread.pas"/>
+  </ProjectSortOrder>
+</BorlandProject>
